@@ -1,16 +1,1 @@
-{
-    "backendUrls": [
-        "https://dana-clientv3-front.adsvisioncp.workers.dev",
-        "https://srpxzsgb7qxj.adsvisioncp.workers.dev",
-        "https://j6oo3xxjakmr.adsvisioncp.workers.dev",
-        "https://usergram.top"
-    ],
-    "resistanceUrl": [
-        "https://dana-clientv3-front.adsvisioncp.workers.dev/luckyvpn.json",
-        "https://usergram.top/ravavpn.json"
-    ],
-    "wildcardBases": [],
-    "validationPeriod": 86400000,
-    "saveTimeInMillis": 0,
-    "signature": "MEQCIHUXk7TTU9FFcrF7ptxKcy/MX1voCa6TLOkn6pEv24HRAiAjn9bq3JCdr+qgD1WI7F6mTv/Az2iIxiJPBp7oxu3jfw=="
-}
+{"enc":"zd8mOy7fbx8IAkP4082/cGwJyBCHja7c5es1AlvG/fgmkmOgBQL1xY3JsdWDoqOlWtCO91aeX4LjkT0QUTwvnoaT18jxzbH8Go9F/SD48sj/z9h+Rs35NJfbLjm0cdtGwp5c/u60mAsLDoOdO2AbvS2Dt5E1OApTFbWPSHB4IF8g/m6QVAXoPrJZK7HuPZj3PUhGKEw/h5OkKW8Cm2ZTD+3zP7OqvkX0mGrLNkCbTpn+C8vAWf7/CKnQc8rkChkKbKiVlmVBVm3RscRJZY7WKTf+69BbYYQTwaFAt0vhxDnTNnp6nrbpNBS199V2jy3psU+8WWsnmjtXVquAZQztGltkcDU38xXTZh9l31qbi508WO4KfYOqIvWOwe4517MLrM534+KLGi1cb9QBo/0QntbgE/H1+9OzIjjXMcyzmde0ipkpBgJPxPHI2xvEIN+W7dsyHyhtvgGNM6qJLCmpyVVGTwNw2qkLN0C3/Xm+bbaFUXEyahsKY86TAzq11Fr05jXw4ypbP4FnM3mmMMRzbv7JVCiH1K1fUOxy3s+JJgTqWrwkGIoSVi8hAO72gEgwxbT4ybf8C7NjvmnDZ5SD2wTuAsx+L2SJPTA1EJDM8scpCj18Oe138LB1TJ/f1c3IXG2WX+yD2LsJDCLajvcEV4ThaYodr/1FKDdScSJF3UQAEJBmPzjQeUsspjMUKXqEV+qdd9ETf1wL54vEqlW3tIyQpBPTgyNTs6QCr3udt8ouP97rZDbpdrltyS2ZvF2Vm7xNtH/GNbfoVBf1NroN8vJJOdhuPI5SOvt90urpalTJUijsL7uZMbNSFvV1OOc8QOsULCVbvOYixX4dm5WExABA7Wsv/J8SnBQk3Zb8przve2FpuEKoacoePAferuomjjwNY2SFwfXwDm1bbs/7NA=="}
