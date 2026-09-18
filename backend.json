@@ -1,1 +1,16 @@
-
+{
+    "backendUrls": [
+        "https://dana-clientv3-front.adsvisioncp.workers.dev",
+        "https://srpxzsgb7qxj.adsvisioncp.workers.dev",
+        "https://j6oo3xxjakmr.adsvisioncp.workers.dev",
+        "https://usergram.top"
+    ],
+    "resistanceUrl": [
+        "https://dana-clientv3-front.adsvisioncp.workers.dev/luckyvpn.json",
+        "https://usergram.top/ravavpn.json"
+    ],
+    "wildcardBases": [],
+    "validationPeriod": 86400000,
+    "saveTimeInMillis": 0,
+    "signature": "MEQCIHUXk7TTU9FFcrF7ptxKcy/MX1voCa6TLOkn6pEv24HRAiAjn9bq3JCdr+qgD1WI7F6mTv/Az2iIxiJPBp7oxu3jfw=="
+}
